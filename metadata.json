@@ -1,0 +1,6 @@
+{
+  "name": "দ্বীনিয়াত মক্তব সাতক্ষীরা",
+  "description": "দ্বীনিয়াত মক্তব সাতক্ষীরা - আধুনিক ডিজিটাল মক্তব ম্যানেজমেন্ট ড্যাশবোর্ড ও হিসাব বিবরণী",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

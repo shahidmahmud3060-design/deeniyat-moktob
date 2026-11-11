@@ -1,0 +1,99 @@
+{
+  "branches": [],
+  "students": [],
+  "books": [
+    {
+      "id": "book-1",
+      "name": "দ্বীনিয়াত মক্তব কোর্স প্রথম বর্ষ",
+      "stock": 25,
+      "buyPrice": 85,
+      "sellPrice": 100,
+      "classLevel": "মক্তব ১ম বর্ষ"
+    },
+    {
+      "id": "book-2",
+      "name": "দ্বীনিয়াত মক্তব কোর্স দ্বিতীয় বর্ষ",
+      "stock": 20,
+      "buyPrice": 105,
+      "sellPrice": 125,
+      "classLevel": "মক্তব ২য় বর্ষ"
+    },
+    {
+      "id": "book-3",
+      "name": "দ্বীনিয়াত মক্তব কোর্স তৃতীয় বর্ষ",
+      "stock": 15,
+      "buyPrice": 130,
+      "sellPrice": 150,
+      "classLevel": "মক্তব ৩য় বর্ষ"
+    },
+    {
+      "id": "book-4",
+      "name": "দ্বীনিয়াত নূরানী কায়দা",
+      "stock": 50,
+      "buyPrice": 40,
+      "sellPrice": 50,
+      "classLevel": "কায়দা বিভাগ"
+    },
+    {
+      "id": "book-5",
+      "name": "আমপারা শরীফ (দ্বীনিয়াত সংস্করণ)",
+      "stock": 30,
+      "buyPrice": 50,
+      "sellPrice": 65,
+      "classLevel": "আমপারা বিভাগ"
+    },
+    {
+      "id": "book-6",
+      "name": "কুরআনুল কারীম (দ্বীনিয়াত নাযেরা)",
+      "stock": 20,
+      "buyPrice": 260,
+      "sellPrice": 300,
+      "classLevel": "নাযেরা বিভাগ"
+    },
+    {
+      "id": "book-7",
+      "name": "দ্বীনিয়াত দু'আ ও মাসায়েল শিক্ষা",
+      "stock": 35,
+      "buyPrice": 40,
+      "sellPrice": 55,
+      "classLevel": "সকল শ্রেণী"
+    },
+    {
+      "id": "book-8",
+      "name": "দ্বীনিয়াত তাজবীদ শিক্ষা",
+      "stock": 25,
+      "buyPrice": 45,
+      "sellPrice": 60,
+      "classLevel": "সকল শ্রেণী"
+    },
+    {
+      "id": "book-9",
+      "name": "দ্বীনিয়াত আকাঈদ ও মাসায়েল",
+      "stock": 20,
+      "buyPrice": 55,
+      "sellPrice": 70,
+      "classLevel": "সকল শ্রেণী"
+    },
+    {
+      "id": "book-10",
+      "name": "দ্বীনিয়াত সীরাতুন্নবী (সা.)",
+      "stock": 18,
+      "buyPrice": 60,
+      "sellPrice": 80,
+      "classLevel": "সকল শ্রেণী"
+    }
+  ],
+  "bookSales": [],
+  "feePayments": [],
+  "expenses": [],
+  "deposits": [],
+  "otherIncomes": [],
+  "teacherWithdrawals": [],
+  "attendanceRecords": [],
+  "account": {
+    "identifier": "",
+    "isLoggedIn": false
+  },
+  "lastUpdated": "2026-11-10T00:00:00.000Z",
+  "updatedBy": "system"
+}
